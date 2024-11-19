@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'amazon_back',
         'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'PASSWORD': 'marcosdb',
         'HOST': 'localhost',
         'PORT': '5432',
     }
